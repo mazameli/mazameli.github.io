@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    <entry>
+      <title><![CDATA[Designing for Elemental Human Problems]]></title>
+      <url>/2014/05/28/theft-alerts.html</url>
+      <content type="html"><![CDATA[<p><img src="../images/alarm.jpeg" alt="Alarm" /></p>
+
+<p>Today, all of us at Lookout are tremendously excited to be announcing the launch of our new <a href="https://blog.lookout.com/blog/2014/05/28/theft-alerts/">Theft Alerts</a> feature. <a href="https://twitter.com/MrNamBui">Nam Bui</a> and the team have been working tirelessly on this for some time, and it’s great to see what they’ve come up with.</p>
+
+<p>When you have Theft Alerts enabled, you’ll receive an email alert when Lookout detects a thief tampering with your phone. For example, the first thing a thief might do after stealing a phone is to power it down in order to prevent the owner from tracking it. With Theft Alerts, you’ll know when anything like this happens, and you’ll even get a photo from the stolen phone’s front-facing camera emailed to you, complete with a map of where your phone was when this happened. Armed with this info, and with the assistance of the authorities, hopefully you’ll be able to <a href="https://www.dailystar.co.uk/news/latest-news/366409/Caught-in-a-flash-Mobile-app-captures-selfie-of-thief-and-is-shared-170-000-online">catch the thief in the act</a>. Theft Alerts also make Lookout’s other great features, like <a href="https://www.lookout.com/products/personal/android">Locate, Backup, and Wipe</a> even more useful, because now you’ll know better when to use them.</p>
+
+<h2 id="designing-foremotion">Designing for emotion</h2>
+<p>But beyond the great, fancy tech of Theft Alerts, if you abstract it to its essence, we’re actually solving the same kind of problem that a home security system does: “If someone is trying to break into my home, I want to know right away!” And really, this problem of guarding personal property goes back hundreds and hundreds of years: we used guard dogs to protect livestock, put alarm bells on doors, and employed soldiers to keep watch over our castles. So the reason Theft Alerts is compelling is not just because it’s using cool technology. It’s because Nam’s team designed it with a universal human experience in mind. Being robbed elicits all sorts of potent, primal emotions: rage, shock, grief — a sense of violation. (The first week that I moved to San Francisco a thief broke into my car, so I can attest to this.) But then catching a criminal in the act is also an emotionally charged experience. You feel euphoric, like justice has prevailed; you feel clever, and powerful.</p>
+
+<p>And so Theft Alerts is more than just an email you get when someone, say, removes your SIM card. At a much more human level, Theft Alerts give you a sense of power and control that feels maybe a little bit like omniscience. You know everything that is happening to your phone, even when you’re not there. And there’s tremendous emotional potency in the promise that this will help you avoid all those powerful negative feelings in the event that your phone is stolen. Nobody wants to feel that they’re helpless, especially when something so sensitive and personal like their phone — and everything that’s on it — is put in jeopardy. But Theft Alerts help to put power back into your hands — you’ll know where your phone is, who’s messing with it, what to do to keep your information safe, and how to get the police involved. Even if your phone is gone for good, you’ll have the sense of closure that comes with knowing <a href="https://www.lookout.com/features">your information is safe</a> and that the cops have a better chance of catching the crook.</p>
+
+<h2 id="the-heart-of-thematter">The heart of the matter</h2>
+<p>Many of us in the design community have been talking about <a href="https://abookapart.com/products/designing-for-emotion">designing for emotion</a> for some time now, and it’s been great to see that kind of thinking being poured into the design of Theft Alerts. As product designers, we have to remember that we’re not just designing cold vessels to deliver new technology to “users.” At our best, we’re endeavoring to solve authentic problems for actual people. And that kind of journey always begins by uncovering the underlying universal human problem underneath it all.</p>
+]]></content>
+      <categories>
+        
+      </categories>
+      <tags>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+</search>

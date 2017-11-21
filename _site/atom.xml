@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hydeout</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-11-21T12:07:39-08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Andrew Fong</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Designing for Elemental Human Problems</title>
+   <link href="http://localhost:4000/2014/05/28/theft-alerts.html"/>
+   <updated>2014-05-28T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2014/05/28/theft-alerts</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;../images/alarm.jpeg&quot; alt=&quot;Alarm&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, all of us at Lookout are tremendously excited to be announcing the launch of our new &lt;a href=&quot;https://blog.lookout.com/blog/2014/05/28/theft-alerts/&quot;&gt;Theft Alerts&lt;/a&gt; feature. &lt;a href=&quot;https://twitter.com/MrNamBui&quot;&gt;Nam Bui&lt;/a&gt; and the team have been working tirelessly on this for some time, and it’s great to see what they’ve come up with.&lt;/p&gt;
+
+&lt;p&gt;When you have Theft Alerts enabled, you’ll receive an email alert when Lookout detects a thief tampering with your phone. For example, the first thing a thief might do after stealing a phone is to power it down in order to prevent the owner from tracking it. With Theft Alerts, you’ll know when anything like this happens, and you’ll even get a photo from the stolen phone’s front-facing camera emailed to you, complete with a map of where your phone was when this happened. Armed with this info, and with the assistance of the authorities, hopefully you’ll be able to &lt;a href=&quot;https://www.dailystar.co.uk/news/latest-news/366409/Caught-in-a-flash-Mobile-app-captures-selfie-of-thief-and-is-shared-170-000-online&quot;&gt;catch the thief in the act&lt;/a&gt;. Theft Alerts also make Lookout’s other great features, like &lt;a href=&quot;https://www.lookout.com/products/personal/android&quot;&gt;Locate, Backup, and Wipe&lt;/a&gt; even more useful, because now you’ll know better when to use them.&lt;/p&gt;
+
+&lt;h2 id=&quot;designing-foremotion&quot;&gt;Designing for emotion&lt;/h2&gt;
+&lt;p&gt;But beyond the great, fancy tech of Theft Alerts, if you abstract it to its essence, we’re actually solving the same kind of problem that a home security system does: “If someone is trying to break into my home, I want to know right away!” And really, this problem of guarding personal property goes back hundreds and hundreds of years: we used guard dogs to protect livestock, put alarm bells on doors, and employed soldiers to keep watch over our castles. So the reason Theft Alerts is compelling is not just because it’s using cool technology. It’s because Nam’s team designed it with a universal human experience in mind. Being robbed elicits all sorts of potent, primal emotions: rage, shock, grief — a sense of violation. (The first week that I moved to San Francisco a thief broke into my car, so I can attest to this.) But then catching a criminal in the act is also an emotionally charged experience. You feel euphoric, like justice has prevailed; you feel clever, and powerful.&lt;/p&gt;
+
+&lt;p&gt;And so Theft Alerts is more than just an email you get when someone, say, removes your SIM card. At a much more human level, Theft Alerts give you a sense of power and control that feels maybe a little bit like omniscience. You know everything that is happening to your phone, even when you’re not there. And there’s tremendous emotional potency in the promise that this will help you avoid all those powerful negative feelings in the event that your phone is stolen. Nobody wants to feel that they’re helpless, especially when something so sensitive and personal like their phone — and everything that’s on it — is put in jeopardy. But Theft Alerts help to put power back into your hands — you’ll know where your phone is, who’s messing with it, what to do to keep your information safe, and how to get the police involved. Even if your phone is gone for good, you’ll have the sense of closure that comes with knowing &lt;a href=&quot;https://www.lookout.com/features&quot;&gt;your information is safe&lt;/a&gt; and that the cops have a better chance of catching the crook.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-heart-of-thematter&quot;&gt;The heart of the matter&lt;/h2&gt;
+&lt;p&gt;Many of us in the design community have been talking about &lt;a href=&quot;https://abookapart.com/products/designing-for-emotion&quot;&gt;designing for emotion&lt;/a&gt; for some time now, and it’s been great to see that kind of thinking being poured into the design of Theft Alerts. As product designers, we have to remember that we’re not just designing cold vessels to deliver new technology to “users.” At our best, we’re endeavoring to solve authentic problems for actual people. And that kind of journey always begins by uncovering the underlying universal human problem underneath it all.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
