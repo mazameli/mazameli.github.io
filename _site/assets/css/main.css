@@ -13,7 +13,7 @@ body {
   padding: 0; }
 
 html {
-  font-family: 'Rasa', serif;
+  font-family: "Rasa", serif;
   font-size: 1rem;
   line-height: 1.5; }
   @media (min-width: 49rem) {
@@ -28,20 +28,12 @@ main, article, section {
   display: block; }
 
 a {
-  color: #515151;
+  color: #268bd2;
   text-decoration: none; }
   a:hover, a:focus {
     text-decoration: underline; }
   a strong {
     color: inherit; }
-
-p a {
-    text-decoration: underline;
-}
-p a:hover {
-    color: #FE422C;
-}
-
 
 img {
   display: block;
@@ -110,10 +102,7 @@ h4, h5, h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
-  font-size: 1.185rem;
-
-}
+  margin-bottom: 1rem; }
 
 strong {
   color: #303030; }
