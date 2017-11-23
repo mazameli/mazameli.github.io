@@ -4,7 +4,7 @@ title: Designing for Elemental Human Problems
 excerpt_separator:  <!--more-->
 ---
 
-![Alarm](../images/alarm.jpeg)
+![Alarm](/images/alarm.jpeg)
 
 Today, all of us at Lookout are tremendously excited to be announcing the launch of our new [Theft Alerts](https://blog.lookout.com/blog/2014/05/28/theft-alerts/) feature. [Nam Bui](https://twitter.com/MrNamBui) and the team have been working tirelessly on this for some time, and it’s great to see what they’ve come up with.
 
